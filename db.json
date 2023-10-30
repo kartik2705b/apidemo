@@ -109,59 +109,6 @@
         "systemModified": "2023-05-31T13:58:58.674Z",
         "status": "ready"
       }
-    },
-    {
-      "document": {
-        "rev": "11-db3398bb5f3b49f086942e410a3fccb9",
-        "keywords": [],
-        "kind": [],
-        "created": "2022-06-15T20:07:58.575Z",
-        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
-        "creatorId": "7c7ef234-b1fc-4e2c-9682-b3b565c8b231",
-        "description": "",
-        "locale": "en",
-        "classification": "content",
-        "type": "BMA_WebLinks",
-        "tags": [],
-        "elements": {
-          "title": { "elementType": "text", "value": "Army Housing" },
-          "link": {
-            "elementType": "text",
-            "value": "https://www.housing.army.mil/"
-          },
-          "installationId": { "elementType": "text" },
-          "communityGroupCategories": {
-            "elementType": "text",
-            "values": [
-              "Single Service Member",
-              "Families",
-              "Spouses",
-              "Active Duty"
-            ]
-          }
-        },
-        "name": "Army Housing",
-        "lastModifierId": "1e840675-08a9-420f-b24a-c6b8a34b1669",
-        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
-        "links": {
-          "retire": {
-            "href": "/authoring/v1/changes/content/1050cf09-c51d-4693-818b-5f5fb34f0f30/status/retire"
-          },
-          "draft": {
-            "href": "/authoring/v1/content/1050cf09-c51d-4693-818b-5f5fb34f0f30:draft"
-          },
-          "self": {
-            "href": "/authoring/v1/content/1050cf09-c51d-4693-818b-5f5fb34f0f30"
-          },
-          "type": {
-            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
-          }
-        },
-        "id": "1050cf09-c51d-4693-818b-5f5fb34f0f30",
-        "lastModified": "2023-05-31T13:55:58.220Z",
-        "systemModified": "2023-05-31T13:55:58.291Z",
-        "status": "ready"
-      }
     }
   ]
 }
