@@ -1,0 +1,522 @@
+{
+  "numFound": 15,
+  "documents": [
+    {
+      "document": {
+        "rev": "2-66cabdeddd4941e0839a4f4b6d2345a3",
+        "keywords": [],
+        "kind": [],
+        "created": "2023-05-30T20:23:28.721Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": {
+            "elementType": "text",
+            "value": "Army Maintenance Application"
+          },
+          "link": {
+            "elementType": "text",
+            "value": "https://www.armymaintenance.com/arma"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": [
+              "Single Service Member",
+              "Families",
+              "Spouses",
+              "Active Duty"
+            ]
+          }
+        },
+        "name": "Army Maintenance Application",
+        "lastModifierId": "1e840675-08a9-420f-b24a-c6b8a34b1669",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/3eca650f-9f48-4543-8b01-dedcda14f4ab/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/3eca650f-9f48-4543-8b01-dedcda14f4ab:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/3eca650f-9f48-4543-8b01-dedcda14f4ab"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "3eca650f-9f48-4543-8b01-dedcda14f4ab",
+        "lastModified": "2023-05-31T13:59:56.486Z",
+        "systemModified": "2023-05-31T13:59:56.557Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "2-206dd68f41a741bbad633deab8688297",
+        "keywords": [],
+        "kind": [],
+        "created": "2023-05-30T20:29:01.019Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "TRICARE Online" },
+          "link": {
+            "elementType": "text",
+            "value": "https://myaccess.dmdc.osd.mil/identitymanagement/app/login"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": [
+              "Single Service Member",
+              "Families",
+              "Spouses",
+              "Active Duty"
+            ]
+          }
+        },
+        "name": "TRICARE Online",
+        "lastModifierId": "1e840675-08a9-420f-b24a-c6b8a34b1669",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/f7cfec17-d9c6-4a29-a327-b3a8aafa1030/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/f7cfec17-d9c6-4a29-a327-b3a8aafa1030:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/f7cfec17-d9c6-4a29-a327-b3a8aafa1030"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "f7cfec17-d9c6-4a29-a327-b3a8aafa1030",
+        "lastModified": "2023-05-31T13:58:58.613Z",
+        "systemModified": "2023-05-31T13:58:58.674Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "11-db3398bb5f3b49f086942e410a3fccb9",
+        "keywords": [],
+        "kind": [],
+        "created": "2022-06-15T20:07:58.575Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "7c7ef234-b1fc-4e2c-9682-b3b565c8b231",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "Army Housing" },
+          "link": {
+            "elementType": "text",
+            "value": "https://www.housing.army.mil/"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": [
+              "Single Service Member",
+              "Families",
+              "Spouses",
+              "Active Duty"
+            ]
+          }
+        },
+        "name": "Army Housing",
+        "lastModifierId": "1e840675-08a9-420f-b24a-c6b8a34b1669",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/1050cf09-c51d-4693-818b-5f5fb34f0f30/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/1050cf09-c51d-4693-818b-5f5fb34f0f30:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/1050cf09-c51d-4693-818b-5f5fb34f0f30"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "1050cf09-c51d-4693-818b-5f5fb34f0f30",
+        "lastModified": "2023-05-31T13:55:58.220Z",
+        "systemModified": "2023-05-31T13:55:58.291Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "8-4ea0326003ca49b0a37e93e85d4d0edb",
+        "keywords": [],
+        "kind": [],
+        "created": "2021-08-03T14:33:49.400Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "fa2d2faa-b59e-4dad-8fd3-c13a06cda358",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": {
+            "elementType": "text",
+            "value": "Community Resource Guides"
+          },
+          "link": {
+            "elementType": "text",
+            "value": "https://crg.amedd.army.mil/Pages/default.aspx"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": [
+              "Active Duty",
+              "Single Service Member",
+              "Families",
+              "Spouses",
+              "Service Member For Life"
+            ]
+          }
+        },
+        "name": "Community Resource Guides",
+        "lastModifierId": "1e840675-08a9-420f-b24a-c6b8a34b1669",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/dc177676-9162-4b26-aeac-21d98537cbfc/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/dc177676-9162-4b26-aeac-21d98537cbfc:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/dc177676-9162-4b26-aeac-21d98537cbfc"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "dc177676-9162-4b26-aeac-21d98537cbfc",
+        "lastModified": "2023-05-31T13:39:46.614Z",
+        "systemModified": "2023-05-31T13:39:46.678Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "3-5a8db09ab72145f49862c7b153e6f350",
+        "keywords": [],
+        "kind": [],
+        "created": "2021-07-22T15:32:48.170Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "fa2d2faa-b59e-4dad-8fd3-c13a06cda358",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "USA Jobs" },
+          "link": {
+            "elementType": "text",
+            "value": "https://www.usajobs.gov/"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": ["Families", "Spouses", "Service Member For Life"]
+          }
+        },
+        "name": "USA Jobs",
+        "lastModifierId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/49618355-b209-4543-8dd7-9278feb70655/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/49618355-b209-4543-8dd7-9278feb70655:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/49618355-b209-4543-8dd7-9278feb70655"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "49618355-b209-4543-8dd7-9278feb70655",
+        "lastModified": "2023-05-30T20:36:53.055Z",
+        "systemModified": "2023-05-30T20:36:53.130Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "3-2dfc48669d7b4852bf6da58eb05ea078",
+        "keywords": [],
+        "kind": [],
+        "created": "2021-06-17T15:31:06.338Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "fa2d2faa-b59e-4dad-8fd3-c13a06cda358",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "Exchange Careers" },
+          "link": {
+            "elementType": "text",
+            "value": "https://publicaffairs-sme.com/applymyexchange/"
+          },
+          "installationId": {
+            "elementType": "text",
+            "value": "BEAD77F8-1212-4D24-82AD-C7E263F641E4"
+          },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": ["Families", "Spouses", "Service Member For Life"]
+          }
+        },
+        "name": "Exchange Careers",
+        "lastModifierId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/0c4c9468-1521-4754-971c-3bf040403e1d/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/0c4c9468-1521-4754-971c-3bf040403e1d:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/0c4c9468-1521-4754-971c-3bf040403e1d"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "0c4c9468-1521-4754-971c-3bf040403e1d",
+        "lastModified": "2023-05-30T20:35:37.920Z",
+        "systemModified": "2023-05-30T20:35:37.982Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "1-6f8790425b5f4baa85b1a6adf7533b83",
+        "keywords": [],
+        "kind": [],
+        "created": "2023-05-30T20:33:09.780Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "Child & Youth Services" },
+          "link": {
+            "elementType": "text",
+            "value": "https://www.armymwr.com/programs-and-services/cys"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": ["Families", "Spouses"]
+          }
+        },
+        "name": "Child & Youth Services",
+        "lastModifierId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/72b334d6-bcc6-4668-bfea-4b380f7c10aa/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/72b334d6-bcc6-4668-bfea-4b380f7c10aa:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/72b334d6-bcc6-4668-bfea-4b380f7c10aa"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "72b334d6-bcc6-4668-bfea-4b380f7c10aa",
+        "lastModified": "2023-05-30T20:33:57.238Z",
+        "systemModified": "2023-05-30T20:33:57.299Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "1-53dae446ebeb4ac0bef41321ff1c43e3",
+        "keywords": [],
+        "kind": [],
+        "created": "2023-05-30T20:32:16.126Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "B.O.S.S. Program" },
+          "link": {
+            "elementType": "text",
+            "value": "https://www.armymwr.com/programs-and-services/boss"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": ["Single Service Member"]
+          }
+        },
+        "name": "B.O.S.S. Program",
+        "lastModifierId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/5e1b6277-286a-46fc-9182-aaa5f3995f6f/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/5e1b6277-286a-46fc-9182-aaa5f3995f6f:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/5e1b6277-286a-46fc-9182-aaa5f3995f6f"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "5e1b6277-286a-46fc-9182-aaa5f3995f6f",
+        "lastModified": "2023-05-30T20:32:48.527Z",
+        "systemModified": "2023-05-30T20:32:48.631Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "1-9fc0b3decfa14222b9ebe32ce66e3a7b",
+        "keywords": [],
+        "kind": [],
+        "created": "2023-05-30T20:30:59.033Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "Veterans Crisis Chat" },
+          "link": {
+            "elementType": "text",
+            "value": "https://www.veteranscrisisline.net/get-help-now/chat/"
+          },
+          "installationId": { "elementType": "text" },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": [
+              "Single Service Member",
+              "Active Duty",
+              "Service Member For Life"
+            ]
+          }
+        },
+        "name": "Veterans Crisis Chat",
+        "lastModifierId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/e75e1141-aa17-4b41-8dc4-1f199728d27f/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/e75e1141-aa17-4b41-8dc4-1f199728d27f:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/e75e1141-aa17-4b41-8dc4-1f199728d27f"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "e75e1141-aa17-4b41-8dc4-1f199728d27f",
+        "lastModified": "2023-05-30T20:31:47.972Z",
+        "systemModified": "2023-05-30T20:31:48.036Z",
+        "status": "ready"
+      }
+    },
+    {
+      "document": {
+        "rev": "5-9a98c3e15e424cd2b50bb16ea59c23c8",
+        "keywords": [],
+        "kind": [],
+        "created": "2021-05-26T16:37:58.330Z",
+        "libraryId": "3d104500-aac2-43dd-a3ed-54a24443cdbf",
+        "creatorId": "fa2d2faa-b59e-4dad-8fd3-c13a06cda358",
+        "description": "",
+        "locale": "en",
+        "classification": "content",
+        "type": "BMA_WebLinks",
+        "tags": [],
+        "elements": {
+          "title": { "elementType": "text", "value": "Soldier for Life" },
+          "link": {
+            "elementType": "text",
+            "value": "https://soldierforlife.army.mil/"
+          },
+          "installationId": {
+            "elementType": "text",
+            "value": "BEAD77F8-1212-4D24-82AD-C7E263F641E4"
+          },
+          "communityGroupCategories": {
+            "elementType": "text",
+            "values": ["Active Duty", "Service Member For Life"]
+          }
+        },
+        "name": "Soldier for Life",
+        "lastModifierId": "91f13e0b-5df9-42cb-b872-8564f573c1c0",
+        "typeId": "320d40ca-0a95-4a80-af38-9df239662927",
+        "links": {
+          "retire": {
+            "href": "/authoring/v1/changes/content/5286e95c-bc46-4d3e-9fc3-3106c9ee549a/status/retire"
+          },
+          "draft": {
+            "href": "/authoring/v1/content/5286e95c-bc46-4d3e-9fc3-3106c9ee549a:draft"
+          },
+          "self": {
+            "href": "/authoring/v1/content/5286e95c-bc46-4d3e-9fc3-3106c9ee549a"
+          },
+          "type": {
+            "href": "/authoring/v1/types/320d40ca-0a95-4a80-af38-9df239662927"
+          }
+        },
+        "id": "5286e95c-bc46-4d3e-9fc3-3106c9ee549a",
+        "lastModified": "2023-05-30T20:27:57.333Z",
+        "systemModified": "2023-05-30T20:27:57.361Z",
+        "status": "ready"
+      }
+    }
+  ]
+}
